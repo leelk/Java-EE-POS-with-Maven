@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Java-EE-Final-POS-Maven:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Java-EE-Final-POS-Maven</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Java-EE-Final-POS-Maven-1.0.0.war">
+      <element id="artifact" artifact-name="Java-EE-Final-POS-Maven:war exploded" />
+    </root>
+  </artifact>
+</component>
